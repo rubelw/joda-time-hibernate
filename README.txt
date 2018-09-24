@@ -20,3 +20,5 @@ Add the JBoss repository to you setup to load the dependencies:
 https://repository.jboss.org/nexus/content/groups/public-jboss/
 
 See http://www.hibernate.org/ for more details on Hibernate.
+
+
